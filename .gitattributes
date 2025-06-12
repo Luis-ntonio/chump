@@ -1,3 +1,4 @@
 dqn_resitv1.pt filter=lfs diff=lfs merge=lfs -text
 policy_reinforce2[[:space:]]copy.pt filter=lfs diff=lfs merge=lfs -text
 policy_reinforce.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
